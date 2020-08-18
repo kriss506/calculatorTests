@@ -10,7 +10,7 @@ To view the run of tests, pass/fail: please load jasmin/SpecRunner.html into bro
 
 ### Screenshots of specRunner.html included.
 
-### jasmine calc tests 01.png, & ...02.png
+### (jasmine calc tests 01.png, & ...02.png)
 
 Specs are written in jasmine/CalculatorSpec.js as follows:
 
