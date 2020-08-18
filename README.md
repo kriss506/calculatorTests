@@ -6,7 +6,7 @@
 
 Uses Jasmine.
 
-To view the run of tests, pass/fail load jasmin/SpecRunner.html into browser.
+To view the run of tests, pass/fail: please load jasmin/SpecRunner.html into browser.
 
 Specs are written in jasmine/CalculatorSpec.js
 
