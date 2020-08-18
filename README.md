@@ -8,7 +8,7 @@ Uses Jasmine.
 
 To view the run of tests, pass/fail: please load jasmin/SpecRunner.html into browser.
 
-Screenshots of specRunner.html included.
+### Screenshots of specRunner.html included.
 
 Specs are written in jasmine/CalculatorSpec.js as follows:
 
