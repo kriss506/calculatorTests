@@ -8,7 +8,9 @@ Uses Jasmine.
 
 To view the run of tests, pass/fail: please load jasmin/SpecRunner.html into browser.
 
-Specs are written in jasmine/CalculatorSpec.js
+Screenshots of specRunner.html included.
+
+Specs are written in jasmine/CalculatorSpec.js as follows:
 
     describe("Calulator functions", function () {
 
