@@ -1,4 +1,4 @@
-# Simple Calculator Tests
+# Calculator Jasmine Tests
 
 ### Kriss Wilson
 
